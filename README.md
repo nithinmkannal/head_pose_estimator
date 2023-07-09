@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-07-09 at 14 19 00](https://github.com/nithinmkannal/head_pose_estimator/assets/115022137/c0d31a6a-c466-402c-bd01-f979aaf210c3)
 Certainly! In the context of your project, let's elaborate on how the Head-Eye Tracker model components and functionalities can be applied:
 
 Head Pose Estimation: The Head-Eye Tracker model can estimate the driver's head pose, providing information about the orientation and position of the driver's head relative to the vehicle coordinate reference frame. This information can be used to determine if the driver's head is within the desired range, such as the yaw and pitch angles, indicating that they are facing forward and focused on the road.
