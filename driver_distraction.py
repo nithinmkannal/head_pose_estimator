@@ -4,7 +4,7 @@ import numpy as np
 
 
 class HeadPoseEstimator:
-    def _init_(self):
+    def __init__(self):
         self.mp_drawing = mp.solutions.drawing_utils
         self.mp_face_mesh = mp.solutions.face_mesh.FaceMesh(static_image_mode=False, max_num_faces=1)
         self.drawing_spec = self.mp_drawing.DrawingSpec(thickness=1, circle_radius=1)
